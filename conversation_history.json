@@ -1,36 +1,3 @@
 {
-    "6635760720": [
-        {
-            "role": "user",
-            "message": "你好，你是谁？"
-        },
-        {
-            "role": "Tim",
-            "message": "你好！我是Tim。"
-        },
-        {
-            "role": "user",
-            "message": "你几岁了"
-        },
-        {
-            "role": "Tim",
-            "message": "Tim: 我没有年龄。"
-        },
-        {
-            "role": "user",
-            "message": "为什么"
-        },
-        {
-            "role": "Tim",
-            "message": "为什么想知道呢？"
-        },
-        {
-            "role": "user",
-            "message": "哈哈哈"
-        },
-        {
-            "role": "Tim",
-            "message": "哈哈哈，你在笑什么呢？"
-        }
-    ]
+    
 }
