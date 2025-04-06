@@ -1,5 +1,7 @@
 # Infinity - AI-Powered Telegram DM Bot
 
+Contact CWWWW Through His Infinity Bot: [Click Here](t.me/CWWWWInfinity_bot)
+
 Infinity is a Telegram bot that allows users to manage direct messages (DMs) through a support group with AI-powered auto-replies. The bot forwards messages from users to a designated support group and can automatically respond using Google's Gemini AI.
 
 ## Features
@@ -10,6 +12,9 @@ Infinity is a Telegram bot that allows users to manage direct messages (DMs) thr
 - **Conversation History**: Maintains conversation history for context-aware AI responses
 - **Toggle AI Mode**: Admins can enable/disable AI auto-replies for specific users
 - **User Tagging**: Support for tagging users with custom labels for better organization
+
+## Demo
+![image](https://github.com/user-attachments/assets/3aae4053-556f-4d11-a048-6450ef4a8bf7)
 
 ## Limitations
 
