@@ -127,7 +127,7 @@ You can customize the AI behavior by modifying the `GEMINI_BASE_PROMPT` variable
 
 ## License
 
-[MIT License](LICENSE)
+GPL
 
 ## Acknowledgements
 
